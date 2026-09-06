@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # SolarModel: Solar Panel Shadow Projection Engine
 
 SolarModel is a Python-based geometric modeling tool designed to calculate shading percentages and effective irradiance on tilted solar panels caused by 3D obstacles.
@@ -18,3 +19,7 @@ A Python-based 3D-to-2D solar shadow projection engine using pvlib and shapely t
 ## Installation & Setup
 ```bash
 pip install numpy pandas pvlib shapely
+=======
+# SolarTrack3D
+3D solar shadow projection and dynamic tracking engine built with pvlib and shapely for PV panel shading analysis and tilt/azimuth optimization.
+>>>>>>> 9c343892d1b1d01ac935c03d4ef0b9a73b01a437
